@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4498953.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4498953.svg)
+
 # tRicho
 
 This is the github repository providing the data and source code associated with the scientific paper:
