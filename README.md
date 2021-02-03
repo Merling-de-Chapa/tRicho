@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4498953.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4498953.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4498953.svg)](https://zenodo.org/record/4498953)
 
 # tRicho
 
