@@ -4,14 +4,16 @@
 
 This is the github repository providing the data and source code associated with the scientific paper:
 
-***TITLE***
+*To get sick or not to get sick - Trichomonas infections in two Accipiter species in Germany*
 
 <img src="https://github.com/courtiol/accipiteR/raw/master/chick.jpg" alt="Goshawk chick" align="right" width="350">
 
 by (in the order of authorship):
 
 - Manuela Merling de Chapa
-- ...
+- Susanne Auls
+- Norbert Kenntner
+- Oliver Krone
 
 The paper has been submitted.
 
